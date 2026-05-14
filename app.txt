@@ -1,3 +1,0 @@
-hello app
-new app add
-repository chnage
